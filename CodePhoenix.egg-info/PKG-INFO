@@ -1,0 +1,12 @@
+Metadata-Version: 2.2
+Name: Legacy-Code-Converter
+Version: 1.0
+Summary: Convert legacy code to a modern language using OpenAI API
+Author: Poul Hornsleth
+License: MIT
+Requires-Dist: openai
+Requires-Dist: python-dotenv
+Dynamic: author
+Dynamic: license
+Dynamic: requires-dist
+Dynamic: summary

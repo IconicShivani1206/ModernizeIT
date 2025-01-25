@@ -1,0 +1,8 @@
+README.md
+setup.py
+Legacy_Code_Converter.egg-info/PKG-INFO
+Legacy_Code_Converter.egg-info/SOURCES.txt
+Legacy_Code_Converter.egg-info/dependency_links.txt
+Legacy_Code_Converter.egg-info/entry_points.txt
+Legacy_Code_Converter.egg-info/requires.txt
+Legacy_Code_Converter.egg-info/top_level.txt
