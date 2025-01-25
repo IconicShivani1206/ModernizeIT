@@ -26,6 +26,9 @@ optional arguments:
 ```
 
 ### Example
+
+
+create folder named Mordenized_codes in the root for storing the outputs.
 ```shell
 python -m venv venv    
 venv\Scripts\activate  
